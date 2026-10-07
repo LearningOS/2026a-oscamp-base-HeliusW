@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HeliusW",
-  "commit": "1f3b3d032233a29148a67af99e7658519a4c4afb",
-  "score": 3,
+  "commit": "4db2bca753c6c3c7abc8e29d202d738dd61bbfa0",
+  "score": 11,
   "totalScore": 100,
   "exercises": [
     {
@@ -16,16 +16,16 @@
     {
       "name": "mutex_counter",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "channel",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "process_pipe",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HeliusW",
-  "runId": "36661742098",
+  "runId": "37633509895",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
