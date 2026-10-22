@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HeliusW",
-  "commit": "ae76e0474aa77cb26699c7e553ae1269b2b959dc",
-  "score": 43,
+  "commit": "01a843f2e1d740e86f04c14637f1b09bbe1d6cca",
+  "score": 47,
   "totalScore": 100,
   "exercises": [
     {
@@ -79,9 +79,9 @@
     {
       "name": "atomic_ordering",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "spinlock",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HeliusW",
-  "runId": "39700927432",
+  "runId": "39703939424",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
