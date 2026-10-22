@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HeliusW",
-  "commit": "fbd76f1b693c3772ee80efc429f8ea5bdde72a29",
-  "score": 39,
+  "commit": "ae76e0474aa77cb26699c7e553ae1269b2b959dc",
+  "score": 43,
   "totalScore": 100,
   "exercises": [
     {
@@ -72,9 +72,9 @@
     {
       "name": "atomic_counter",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "atomic_ordering",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HeliusW",
-  "runId": "38049826751",
+  "runId": "39700927432",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
