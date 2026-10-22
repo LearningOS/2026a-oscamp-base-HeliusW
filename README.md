@@ -39,6 +39,24 @@ cargo run -p oscamp-cli -- watch
 
 也可以在自己作业仓库中选择 **Code → Codespaces → Create codespace on main**，等待开发环境初始化后执行同一练习命令。Codespaces 使用自己账号的可用额度。
 
+### 本机 macOS + Docker 启动
+
+本仓库的本机环境已配置 `oscamp-base-2026a` 容器。为处理共享目录偶尔读取旧内容或旧文件大小的问题，在 Mac 终端使用：
+
+```sh
+python3 oscamp.py
+```
+
+启动工具会自动启动已有容器，校验已保存的源码并进入 watch；保存后自动同步和重测。继续在 Mac 上编辑本仓库的练习文件。首次运行需要构建工具及依赖，后续复用 Linux 内的构建缓存。
+
+单独测试一题：
+
+```sh
+python3 oscamp.py test atomic_ordering
+```
+
+详细说明及排查方法见 [Docker 环境稳定运行说明](Docker环境稳定运行说明.md)。
+
 ## 模块与知识点
 
 共 **6 个模块、24 项练习**。建议依次阅读各模块及题目文件中的说明，再实现 `src/lib.rs` 内的 `todo!()`。
