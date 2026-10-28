@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HeliusW",
-  "commit": "dc0ea85efd1b20e51edd2cb1b5457f287aeb88ec",
-  "score": 60,
+  "commit": "9afaf3e1abe112f58d6febe043dddaf254644d35",
+  "score": 66,
   "totalScore": 100,
   "exercises": [
     {
@@ -107,9 +107,9 @@
     {
       "name": "stack_coroutine",
       "max": 6,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 6,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "green_threads",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HeliusW",
-  "runId": "40675743300",
+  "runId": "40681025825",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
