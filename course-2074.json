@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HeliusW",
-  "commit": "9afaf3e1abe112f58d6febe043dddaf254644d35",
-  "score": 66,
+  "commit": "556fbbb3a180a7cabc054a13befce56bf861042c",
+  "score": 72,
   "totalScore": 100,
   "exercises": [
     {
@@ -114,9 +114,9 @@
     {
       "name": "green_threads",
       "max": 6,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 6,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "basic_future",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HeliusW",
-  "runId": "40681025825",
+  "runId": "40995793020",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
