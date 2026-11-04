@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HeliusW",
-  "commit": "8cf45c7fde06ecf4ec43f206beaecae40e344fd6",
-  "score": 82,
+  "commit": "33f54ba3e87c9acef927f0ca5d5dd49a940a950e",
+  "score": 86,
   "totalScore": 100,
   "exercises": [
     {
@@ -142,9 +142,9 @@
     {
       "name": "select_timeout",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "pte_flags",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HeliusW",
-  "runId": "41819328829",
+  "runId": "41820641440",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
