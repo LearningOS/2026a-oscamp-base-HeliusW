@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HeliusW",
-  "commit": "38547e1ed2d2f5b5f3f7fe32082c33bfd5c975eb",
-  "score": 89,
+  "commit": "ef30463e045f8752aaf44be95da09346f5afef11",
+  "score": 93,
   "totalScore": 100,
   "exercises": [
     {
@@ -156,9 +156,9 @@
     {
       "name": "page_table_walk",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "multi_level_pt",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HeliusW",
-  "runId": "41822221826",
+  "runId": "41824026486",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
