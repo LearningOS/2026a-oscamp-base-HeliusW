@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HeliusW",
-  "commit": "556fbbb3a180a7cabc054a13befce56bf861042c",
-  "score": 72,
+  "commit": "8cf45c7fde06ecf4ec43f206beaecae40e344fd6",
+  "score": 82,
   "totalScore": 100,
   "exercises": [
     {
@@ -121,23 +121,23 @@
     {
       "name": "basic_future",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "tokio_tasks",
       "max": 3,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 3,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "async_channel_ex",
       "max": 3,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 3,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "select_timeout",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "HeliusW",
-  "runId": "40995793020",
+  "runId": "41819328829",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
