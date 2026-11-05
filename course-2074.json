@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-HeliusW",
-  "commit": "c061ea19c1c348b76b208ab8c61a2cef54a688a5",
-  "score": 97,
+  "commit": "1305bc765e1dc9dc84a3b399070c5e4e85eddab4",
+  "score": 100,
   "totalScore": 100,
   "exercises": [
     {
@@ -170,15 +170,15 @@
     {
       "name": "tlb_sim",
       "max": 3,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 3,
+      "status": "pass",
+      "exitCode": 0
     }
   ],
   "student": "HeliusW",
-  "runId": "41938485278",
+  "runId": "41941376043",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
